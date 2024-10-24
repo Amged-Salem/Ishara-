@@ -13,11 +13,11 @@ Computer Vision & NLP: Detects hand gestures and facial expressions, and enhance
 User-Friendly Interface: Intuitive and accessible interface designed for seamless communication.
 Community Collaboration: Developed with input from subject matter experts to ensure accuracy and cultural relevance.
 # Technologies Used
-# Programming Languages: Python
-# Machine Learning: TensorFlow, Keras
-# Computer Vision: OpenCV
-# Natural Language Processing: NLP libraries
-# Other Tools: NumPy, pandas, scikit-learn
+Programming Languages: Python
+Machine Learning: TensorFlow, Keras
+Computer Vision: OpenCV
+Natural Language Processing: NLP libraries
+Other Tools: NumPy, pandas, scikit-learn
 # Data Collection
 As part of the Ishara project, our team collected a comprehensive dataset of sign language videos. These videos were used to train, test, and validate the machine learning models to ensure high translation accuracy.
 Use the video feed to capture continuous sign language gestures.
