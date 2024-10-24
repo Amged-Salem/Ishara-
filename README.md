@@ -1,36 +1,29 @@
-# Ishara
-Real-time translation system for Egyptian Sign Language to text. Designed to bridge communication gaps for the deaf and hard-of-hearing community in Egypt.
-## Features
-- Continuous sign language recognition and translation
-- Real-time conversion of signs to text
-- Egyptian Sign Language focus, with potential for expansion
-## Technologies Used
-- Python (core programming language)
-- TensorFlow/Keras (for deep learning models)
-- OpenCV (for video/image processing)
-- Flask (for web integration)
-## Installation Guide
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Ishara.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Ishara
-   ```
-3. Install the necessary packages:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the project:
-   ```bash
-   python main.py
-   ```
-## Usage
-- Launch the application.
-- Start a live camera feed and follow prompts to translate signs.
-- View translation outputs in real-time on the interface.
-## Contributing
-- Fork the repository and create a new branch.
-- Submit a pull request with your changes.
+Ishara: Real-time Egyptian Sign Language Translation System
+Ishara is the first application in Egypt to address continuous Egyptian Sign Language translation, designed to bridge communication gaps for the deaf and hard-of-hearing community. This system translates Egyptian Sign Language to text and vice versa in real time, providing an essential tool for improving accessibility and inclusivity.
 
+Table of Contents
+Project Overview
+Key Features
+Technologies Used
+Data Collection
+Installation
+Usage
+Contributing
+License
+Project Overview
+The Ishara project leverages advanced machine learning techniques, computer vision, and natural language processing (NLP) to create a seamless translation system for continuous Egyptian Sign Language. Our mission is to enhance communication between sign language users and non-signers, making daily interactions more accessible.
+
+Key Features
+Real-time Translation: Converts Egyptian Sign Language gestures into text and vice versa.
+Machine Learning: Powered by a custom-trained model to recognize continuous sign language gestures.
+Computer Vision & NLP: Detects hand gestures and facial expressions, and enhances text-to-sign accuracy.
+User-Friendly Interface: Intuitive and accessible interface designed for seamless communication.
+Community Collaboration: Developed with input from subject matter experts to ensure accuracy and cultural relevance.
+Technologies Used
+Programming Languages: Python
+Machine Learning: TensorFlow, Keras
+Computer Vision: OpenCV
+Natural Language Processing: NLP libraries
+Other Tools: NumPy, pandas, scikit-learn
+Data Collection
+As part of the Ishara project, our team collected a comprehensive dataset of sign language videos. These videos were used to train, test, and validate the machine learning models to ensure high translation accuracy.
